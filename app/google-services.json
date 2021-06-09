@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "321273298537",
+    "project_id": "foroapp-b4228",
+    "storage_bucket": "foroapp-b4228.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321273298537:android:eaa55cc8ca7169521e2cf8",
+        "android_client_info": {
+          "package_name": "com.example.foroandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321273298537-2pcg0m7pqhnf1rjnjq28d1n4048hnkno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAebA_SfGmwpq4-zTlvY3FqrRlez5wqpX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321273298537-2pcg0m7pqhnf1rjnjq28d1n4048hnkno.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
